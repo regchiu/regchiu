@@ -4,7 +4,7 @@ I am a front-end engineer, I love JavaScript, I love learning new technologies, 
 
 🌱 I'm currently learning:
 
-&ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)&ensp;![Vue.js](https://img.shields.io/badge/-Vue.js-34495E?style=flat-square&logo=Vue.js)&ensp;![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript)&ensp;![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js)&ensp;![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)
+&ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)&ensp;![Vue.js](https://img.shields.io/badge/-Vue.js-34495E?style=flat-square&logo=Vue.js)&ensp;![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript)&ensp;![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js)&ensp;![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)&ensp;![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-34495E?style=flat-square&logo=Nuxt.js)&ensp;![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js)
 
 :rocket: I'm use these tools:
 
