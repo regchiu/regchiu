@@ -17,4 +17,4 @@ I am a front-end engineer, I love JavaScript, I love learning new technologies, 
 
 ![Reg Chiu's github stats](https://github-readme-stats.vercel.app/api?username=regchiu&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)&ensp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regchiu&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=regchiu&repo=my-youtube&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)&ensp;
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=regchiu&repo=my-youtube&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)](https://github.com/regchiu/my-youtube)&ensp;
