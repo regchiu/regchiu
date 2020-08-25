@@ -16,7 +16,7 @@ I am a front-end engineer, I love JavaScript, I love learning new technologies, 
 
 :musical_note: I'm currently listening:
 
-![](https://spotify-currently-playing-track.vercel.app/api)
+[![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://github.com/regchiu/spotify-currently-playing-track)
 
 :bar_chart: GitHub stats
 
