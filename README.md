@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=regchiu&color=blueviolet&style=flat-square)
 
-I am a front-end engineer, I love JavaScript, I love learning new technologies, and I am committed to developing websites or applications with beautiful interfaces and a good user experience.
+I am a frontend engineer, I love JavaScript, I love learning new technologies, and I am committed to developing websites or applications with beautiful interfaces and a good user experience.
 
 🌱 I'm currently learning:
 
