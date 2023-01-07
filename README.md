@@ -22,7 +22,9 @@ I am a frontend engineer, I love JavaScript, I love learning new technologies, a
 
 :bar_chart: GitHub stats
 
-![Reg Chiu's github stats](https://github-readme-stats.vercel.app/api?username=regchiu&show_icons=true&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regchiu&layout=compact&theme=vue-dark)
+![Reg Chiu's github stats](https://github-readme-stats.vercel.app/api?username=regchiu&show_icons=true&bg_color=18181B&title_color=00DC82&text_color=FFFFFF&border_color=FFFFFF&icon_color=00DC82&ring_color=00DC82)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regchiu&layout=compact&bg_color=18181B&title_color=00DC82&text_color=FFFFFF&border_color=FFFFFF)
+
 
