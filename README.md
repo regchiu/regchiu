@@ -14,7 +14,7 @@ I am a frontend engineer, I love JavaScript, I love learning new technologies, a
 
 📫 How to reach me:
 
-&ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:regx1385@gmail.com)&ensp;[![Blog](https://img.shields.io/badge/-Blog-000000?style=flat-square&logoColor=FFFFFF)](https://nextjs-blog.regchiu.vercel.app/)
+&ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:regx1385@gmail.com)&ensp;[![Blog](https://img.shields.io/badge/-Blog-000000?style=flat-square&logoColor=FFFFFF)](https://regchiu.vercel.app/)
 
 :musical_note: I'm currently listening:
 
