@@ -1,4 +1,4 @@
-:wave: Hi! I'm Reg Chiu. 
+:wave: Hi! I'm Reg. 
 
 ![](https://komarev.com/ghpvc/?username=regchiu&color=blueviolet&style=flat-square)
 
