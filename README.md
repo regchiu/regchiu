@@ -1,6 +1,6 @@
 :wave: Hi! I'm Reg.
 
-I am a frontend engineer, I love JavaScript, I love learning new technologies, and I am committed to developing websites or applications with beautiful interfaces and a good user experience.
+I am a frontend engineer, I love JavaScript, I love learning new technologies, and I am dedicated to developing websites or applications with beautiful interfaces and a good user experience.
 
 🌱 I'm currently learning:
 
