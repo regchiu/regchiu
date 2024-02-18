@@ -10,10 +10,6 @@ I am a frontend engineer, I love JavaScript, I love learning new technologies, a
 
 &ensp;![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=Git)&ensp;![Docker](https://img.shields.io/badge/-Docker-384D54?style=flat-square&logo=Docker)&ensp;![Webpack](https://img.shields.io/badge/-Webpack-1C78C0?style=flat-square&logo=Webpack)&ensp;![Visual Studio Code](https://img.shields.io/badge/-VSCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
 
-📫 How to reach me:
-
-&ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:regx1385@gmail.com)&ensp;[![Blog](https://img.shields.io/badge/-Blog-000000?style=flat-square&logoColor=FFFFFF)](https://regchiu.vercel.app/)
-
 :musical_note: I'm currently listening:
 
 [![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://github.com/regchiu/spotify-currently-playing-track)
