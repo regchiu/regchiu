@@ -20,5 +20,4 @@ I am a frontend engineer, I love JavaScript, I love learning new technologies, a
 
 ![Top Langs](https://regchiu-github-readme-stats.vercel.app/api/top-langs/?username=regchiu&layout=compact&bg_color=18181B&title_color=00DC82&text_color=FFFFFF&border_color=FFFFFF)
 
-<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/TypeScript/TypeScript.png" alt="TypeScript" width="400">
-<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Rust/Rust.png" alt="Rust" width="400">
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/TypeScript/TypeScript.png" alt="TypeScript" width="400"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Rust/Rust.png" alt="Rust" width="400">
