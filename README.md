@@ -1,6 +1,6 @@
-:wave: Hi! My name is Reg.
+:wave: I'am Reg Chiu.
 
-I'm a frontend developer, I love JavaScript, I love learning new technologies, and I am dedicated to developing websites or applications with beautiful interfaces and a good user experience.
+I'm a front-end developer from Taiwan. I am passionate about developing beautiful and easy-to-use applications.
 
 🌱 I'm currently learning:
 
