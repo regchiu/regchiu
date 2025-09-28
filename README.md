@@ -1,6 +1,6 @@
 :wave: I'am Reg Chiu.
 
-I'm a front-end developer from Taiwan. I am passionate about developing beautiful and easy-to-use applications.
+I'm a front-end engineer from Taiwan. I am passionate about developing beautiful and easy-to-use applications.
 
 🌱 I'm currently learning:
 
